@@ -20,7 +20,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/jeannzk021/be-the-hero-Mobile-) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/jeannzk021/Page-Jean---Restilized) for details.
 
 ---
 
