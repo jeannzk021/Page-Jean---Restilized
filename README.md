@@ -3,7 +3,7 @@
 
 
 <h2 align="center">   
-           <br> Nunjucks | CSS | HTML | JavaScript | React Native | NodeJS 💻🚀✔ </br>
+           <br> Nunjucks | CSS | HTML | JavaScript | NodeJS 💻🚀✔ </br>
 </h2>
 
 
