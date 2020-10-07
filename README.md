@@ -1,9 +1,10 @@
-# Page-Jean---Restilized
+
+<h1> Página Jean </h1>
 
 
-
-
-Nunjucks | CSS | HTML | JavaScript | React Native | NodeJS 💻🚀✔
+<h2 align="center">   
+           <br> Nunjucks | CSS | HTML | JavaScript | React Native | NodeJS 💻🚀✔ </br>
+</h2>
 
 
 <p align="center">  
