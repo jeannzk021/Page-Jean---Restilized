@@ -6,13 +6,12 @@
 Nunjucks | CSS | HTML | JavaScript | React Native | NodeJS 💻🚀✔
 
 
+<p align="center">  
+  <img alt="" src="https://user-images.githubusercontent.com/60414493/80419537-b5dc7600-88af-11ea-8f25-74c749704185.png" width="70%" />
+  <img alt="" src="https://user-images.githubusercontent.com/60414493/80419556-bf65de00-88af-11ea-85e8-6d669021d2b7.png" width="70%"/>
+  <img alt="" src="https://user-images.githubusercontent.com/60414493/80419586-cd1b6380-88af-11ea-8ccc-8f7234de30e0.png" width="70%"/>
+<p>
 
-
-![image](https://user-images.githubusercontent.com/60414493/80419537-b5dc7600-88af-11ea-8f25-74c749704185.png)
-
-![image](https://user-images.githubusercontent.com/60414493/80419556-bf65de00-88af-11ea-85e8-6d669021d2b7.png)
-
-![image](https://user-images.githubusercontent.com/60414493/80419586-cd1b6380-88af-11ea-8ccc-8f7234de30e0.png)
 
 ## How to contribute
 
