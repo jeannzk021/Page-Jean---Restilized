@@ -2,9 +2,6 @@
 <h1> Página Jean </h1>
 
 
-<h2 align="center">   
-           <br> Nunjucks | CSS | HTML | JavaScript | NodeJS 💻🚀✔ </br>
-</h2>
 
 
 <p align="center">  
