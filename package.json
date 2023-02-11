@@ -12,6 +12,6 @@
     "react-icons": "^3.10.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.20"
   }
 }
